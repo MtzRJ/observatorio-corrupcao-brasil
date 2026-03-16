@@ -283,7 +283,8 @@ with st.sidebar:
     📊 Fontes: MPF · STF · TCU · CGU · PF<br>
     🗓️ Atualizado: continuamente<br>
     ⚖️ Uso educacional e pesquisa<br><br>
-    <strong style="color:#e8b84b">⚠️ Dados públicos, sem fins comerciais</strong>
+    <strong style="color:#e8b84b">⚠️ Dados públicos, sem fins comerciais</strong><br>
+     <strong style="color:#e8b84b">print("\U0001F600") Desenvolvido por Matheus F Valentim</strong>
     </div>
     """, unsafe_allow_html=True)
 
